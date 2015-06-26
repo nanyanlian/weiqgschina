@@ -1,0 +1,367 @@
+div#page_index {max-width:640px;margin:auto; position:relative; padding-bottom:60px;}
+div#page_index header {width:100%;}
+div#page_index header img {width:100%;}
+div#page_index header.box_swipe{overflow:hidden;position:relative;}
+div#page_index header.box_swipe>ol{height:20px;position: relative;z-index:10;margin-top:-25px;text-align:right;padding-right:20px;background-color:rgba(0,0,0,0.5);}
+div#page_index header.box_swipe>ol>li{display:inline-block;margin:5px;width:10px;height:10px;background-color:#757575;border-radius: 10px;}
+div#page_index header.box_swipe>ol>li.on{background-color:#ffffff;}
+div#page_index aside {display:block;cursor:pointer;height:40px;width:99%;margin:10px auto auto;background:#6c90ca;border-radius:5px;color:#fff;font-family:FontAwesome;font-size:20px;position:relative;}
+div#page_index aside span {text-decoration:none;}
+div#page_index aside div.logo {width:30px;height:30px;padding-top:5px;margin-left:10px;}
+div#page_index aside div.logo img {width:100%;}
+div#page_index aside span.pcWeb {display:inline-block;width:250px;left:50%;position:absolute;top:50%;margin-top:-10px;margin-left:-85px;}
+div#page_index section {width:99%;margin:3px auto auto;font-family:FontAwesome;}
+div#page_index section article div {position:relative;width:49.7%;height:120px;margin-top:3px;text-align:center;color:#fff;cursor:pointer;}
+div#page_index section article div span {display:block;font-size:2.5em;line-height:90px;height:70px;}
+div#page_index section article div p {display:block;font-size:1.3em;}
+div#page_index section article div.left{float:left;}
+div#page_index section article div.right{float:right;}
+div#page_index section article div.color1{background:#1f8e42;}
+div#page_index section article div.color2{background:#28a0d2;}
+div#page_index section article div.color3{background:#87bd43;}
+div#page_index section article div.color4{background:#1ea096;}
+div#page_index section article div.color5{background:#e4562e;}
+div#page_index section article div.color6{background:#901c89;}
+div#page_index section article div div.rightBottom{
+	position:absolute;
+	right:0;bottom:0;
+width:0;height:0;border-bottom: 50px solid #f3f3f3;border-left: 20px solid transparent;}
+
+div#page_companyList {max-width:640px;margin:auto;position:relative; padding-bottom:60px;}
+div#page_companyList header {width:100%;}
+div#page_companyList header img {width:100%;}
+div#page_companyList section {width:100%;margin-top:30px;}
+div#page_companyList section article {position:relative;font-weight:bold;color:#000;padding-top:15px;padding-bottom:15px;padding-left:20px;cursor:pointer;}
+div#page_companyList section article span {font-family:FontAwesome;position:absolute;right:10px;top:15px;}
+div#page_companyList section div.splitLine {width:100%;height:0px;border-top:1px solid #0247a8;}
+
+div#page_productInfo {max-width:640px;margin:auto;position:relative; padding-bottom:60px;}
+div#page_productInfo header {width:100%;padding-top:10px;}
+div#page_productInfo header div.border {width:95%;height:3px;margin:0 auto auto;}
+div#page_productInfo header div.border img{width:100%;height:3px;}
+div#page_productInfo header div.content {width:100%;height:80px;}
+div#page_productInfo header div.content div.logo {height:80px;float:left;}
+div#page_productInfo header div.content div.logo img {height:80px;}
+div#page_productInfo header div.content div.logoFollow {width:100%;height:100px;}
+div#page_productInfo header div.content div.logoFollow div.title {font-weight:bold;padding-top:22px;margin-left:110px;color:#000;font-size:1em;line-height:20px;}
+div#page_productInfo header div.content div.logoFollow div.show {overflow:hidden;height:20px;white-space:nowrap;}
+div#page_productInfo header div.content div.logoFollow div.time {padding-left:110px;padding-top:5px;color:#aaa;}
+div#page_productInfo section {width:90%;margin:20px auto auto;}
+div#page_productInfo section article {font-size:0.9em;text-indent:2em;padding-top:4px;}
+div#page_productInfo section article.listArticle div.listTitle {font-size:13px;font-family:Microsoft YaHei,Helvitica,Verdana,Tohoma,Arial,san-serif;padding-top:10px;margin-left:-16px;}
+div#page_productInfo section article.listArticle div.list {text-indent:0em;font-family:FontAwesome;overflow:hidden;margin-top:10px;}
+div#page_productInfo section article.listArticle div.list span {float:left;display:block;width:30px;padding-left:10px;}
+div#page_productInfo section article.listArticle div.list div.message {float:left;word-wrap:break-word;}
+div#page_productInfo section aside.singlePic {margin-top:20px;}
+div#page_productInfo section aside.singlePic img {width:100%;}
+div#page_productInfo section aside.singlePic label {color:orange;display:block;text-align:center;font-weight:bold;padding-top:5px;}
+div#page_productInfo section aside.doublePic {overflow:hidden;width:80%;margin:20px auto auto;}
+div#page_productInfo section aside.doublePic div.left {width:49%;float:left;}
+div#page_productInfo section aside.doublePic div.right {width:49%;float:right;}
+div#page_productInfo section aside.doublePic div img {width:100%;}
+div#page_productInfo section aside.doublePic div label {display:block;font-size:0.9em;padding-top:5px;text-align:center;}
+div#page_productInfo section dl.essay dt {
+	width:100%;height:30px;font-family:Microsoft YaHei,Helvitica,Verdana,Tohoma,Arial,san-serif;
+	font-weight:bold;text-align:center;color:rgb(29,32,136);font-size:15px;line-height:30px;background:#dddddd;
+	margin-top:20px;
+}
+div#page_productInfo section dl.essay h5 {
+	color:#000;padding:10px;font-size:13px;padding-top:25px;
+}
+
+div#page_productList {max-width:640px;margin:auto;position:relative; padding-bottom:60px;}
+div#page_productList header {width:100%;}
+div#page_productList header img {width:100%;}
+div#page_productList section {width:100%;margin-top:30px;}
+div#page_productList section article {position:relative;font-weight:bold;color:#000;padding-top:15px;padding-bottom:15px;padding-left:20px;cursor:pointer;}
+div#page_productList section article div.content{padding-right:23px;}
+div#page_productList section article span {font-family:FontAwesome;position:absolute;right:10px;top:15px;}
+div#page_productList section div.splitLine {width:100%;height:0px;border-top:1px solid #0247a8;}
+div#page_productList section div#sortDown {width:90%;margin-left:5%;height:33px;line-height:33px;font-size:13px;font-family:FontAwesome;text-align:center;color:rgb(66,66,66);background:rgb(248,248,248);border:1px solid rgb(220,220,220);cursor:pointer;margin-top:20px;margin-bottom:20px;border-radius:3px;}
+div#page_productList section div#sortDown span {font-family:FontAwesome;}
+
+#page_message {max-width:640px;margin:auto; position:relative; padding-bottom:60px;}
+	
+div#page_community,div#page_employList,div#page_employInfo,div#page_settleAccount,div#page_createOrder {background:#ddd;font-family:Microsoft YaHei,Helvitica,Verdana,Tohoma,Arial,san-serif;max-width:640px;margin:auto; position:relative; padding-bottom:60px;}
+
+div#page_employList header {width:100%;height:115px;background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/communityTop.jpg);}
+div#page_employList header div.logo {float:left;height:93px;padding-top:22px;padding-left:22px;}
+div#page_employList header div.logo img {height:70px;}
+div#page_employList header div.followLogo {float:left;padding-top:27px;padding-left:10px;color:#fff;}
+div#page_employList header div.followLogo div.companyName {font-size:18px;}
+div#page_employList header div.followLogo div.communityInfo {padding-top:5px;}
+div#page_employList header div.followLogo div.communityInfo span{font-family:FontAwesome;padding-left:5px;}
+div#page_employList section article{width:98%;margin:5px auto auto;background:#fff;}
+div#page_employList section article div.user {height:60px;width:98%;margin:10px auto auto;}
+div#page_employList section article div.user div.userHead {width:40px;height:40px;padding-top:10px;position:relative;float:left;}
+div#page_employList section article div.user div.userHead img {width:40px;height:40px;position:absolute;right:0;bottom:0;}
+div#page_employList section article div.userInfo {margin-left:10px;float:left;height:40px;padding-top:10px;}
+div#page_employList section article div.userInfo div.userName {font-size:18px;color:#000;}
+div#page_employList section article div.userInfo div.createDate {font-size:15px;color:#828282;}
+div#page_employList section article dl {width:98%;margin:10px auto auto;}
+div#page_employList section article dl dt {font-size:16px;color:rgb(0,0,0);}
+div#page_employList section article dl dd {padding-top:5px;padding-bottom:5px;font-size:14px;line-height:20px;color:#333;}
+div#page_employList section article dl dd ol {list-style-type:decimal;list-style-position:outside;}
+div#page_employList section article dl dd li {list-style-type:decimal;list-style-position:outside;width:92%;display:list-item;margin-left:8%;}
+div#page_employList section article a.lookAll {color:#007aff;text-decoration:none;display:block;width:98%;margin:10px auto auto;padding-bottom:10px;font-size:15px;}
+div#page_employList section article a.wantEmploy {color:#007aff;text-decoration:none;display:block;width:98%;margin:10px auto auto;padding-bottom:10px;font-size:15px;}
+
+div#page_employInfo section article{width:98%;margin:5px auto auto;background:#fff;}
+div#page_employInfo section article div.user {height:60px;width:98%;margin:10px auto auto;}
+div#page_employInfo section article div.user div.userHead {width:40px;height:40px;padding-top:10px;position:relative;float:left;}
+div#page_employInfo section article div.user div.userHead img {width:40px;height:40px;position:absolute;right:0;bottom:0;}
+div#page_employInfo section article div.userInfo {margin-left:10px;float:left;height:40px;padding-top:10px;}
+div#page_employInfo section article div.userInfo div.userName {font-size:18px;color:#000;}
+div#page_employInfo section article div.userInfo div.createDate {font-size:15px;color:#828282;}
+div#page_employInfo section article dl {width:98%;margin:10px auto auto;}
+div#page_employInfo section article dl dt {font-size:16px;color:rgb(0,0,0);}
+div#page_employInfo section article dl dd {padding-top:5px;padding-bottom:5px;font-size:14px;line-height:20px;color:#333;}
+div#page_employInfo section article dl dd ol {list-style-type:decimal;list-style-position:outside;}
+div#page_employInfo section article dl dd ol li {width:92%;display:list-item;margin-left:8%;list-style-type:decimal;list-style-position:outside;}
+div#page_employInfo section article dl dd ul {list-style-type:none;list-style-position:outside;}
+div#page_employInfo section article dl dd ul li {width:92%;display:list-item;margin-left:8%;list-style-type:none;font-size:14px;line-height:20px;color:#333;}
+div#page_employInfo section article a.wantEmploy {color:#007aff;text-decoration:none;display:block;width:98%;margin:10px auto auto;padding-bottom:10px;font-size:15px;}
+
+div#page_community {position:relative;}
+div#page_community header {width:100%;height:115px;background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/communityTop.jpg);}
+div#page_community header div.logo {float:left;height:93px;padding-top:22px;padding-left:22px;}
+div#page_community header div.logo img {height:70px;}
+div#page_community header div.followLogo {float:left;padding-top:27px;padding-left:10px;color:#fff;}
+div#page_community header div.followLogo div.companyName {font-size:18px;}
+div#page_community header div.followLogo div.communityInfo {padding-top:5px;}
+div#page_community header div.followLogo div.communityInfo span{font-family:FontAwesome;padding-left:5px;}
+div#page_community section {margin-bottom:100px;}
+div#page_community section article{width:98%;margin:5px auto auto;background:#fff;}
+div#page_community section article div.user {height:60px;width:98%;margin:10px auto auto;}
+div#page_community section article div.user div.userHead {width:40px;height:40px;padding-top:10px;position:relative;float:left;}
+div#page_community section article div.user div.userHead img {width:40px;height:40px;position:absolute;right:0;bottom:0;}
+div#page_community section article div.userInfo {margin-left:10px;float:left;height:40px;width:100px;padding-top:10px;}
+div#page_community section article div.userInfo div.userName {font-size:18px;color:#000;}
+div#page_community section article div.userInfo div.createDate {font-size:15px;color:#828282;}
+div#page_community section article dl {width:98%;margin:10px auto auto;}
+div#page_community section article dl dt {font-size:16px;color:rgb(0,0,0);}
+div#page_community section article dl dd {padding-top:5px;padding-bottom:5px;font-size:14px;line-height:20px;color:#333;}
+div#page_community section article a.lookAll {color:#007aff;text-decoration:none;display:block;width:98%;margin:10px auto auto;padding-bottom:10px;font-size:15px;}
+div#page_community section div.footer {border-top:1px solid #cacaca;border-bottom:1px solid #cacaca;width:98%;margin:0 auto auto;background:#f3f3f3;color:#989898;font-size:18px;overflow:hidden;font-family:FontAwesome;}
+div#page_community section div.footer div.love {position:relative;padding-left:2%;width:40%;float:left;height:50px;line-height:30px;}
+div#page_community section div.footer div.talk {position:relative;float:left;padding-left:2%;width:27%;height:50px;line-height:30px;}
+div#page_community section div.footer div.like {position:relative;float:left;padding-left:2%;width:27%;height:50px;line-height:30px;}
+div#page_community section div.footer span.icons {cursor:pointer;background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/icons.png) no-repeat 0 0;-webkit-background-size: 50px auto;width:30px;height:30px;margin-top:10px;display:inline-block;}
+div#page_community section div.footer div.footerLine {height:100%;width:0px;border-right:1px solid #cacaca;position:absolute;top:0;right:0;}
+div#page_community section div.footer span.icons_collect{background-position: center -460px;}
+div#page_community section div.footer span.icons_hasCollect{background-position: center -610px;}
+div#page_community section div.footer span.icons_hasCollect_num {color:#eb3424;}
+div#page_community section div.footer span.icons_hasLike_num {color:#007aff;}
+div#page_community section div.footer span.icons_comment{background-position: center -510px;}
+div#page_community section div.footer span.icons_like{background-position: center -560px;}
+div#page_community section div.footer span.icons_hasLike{background-position: center -710px;}
+div#page_community footer.snsFooter {max-width:640px;margin:0 auto auto;width:100%;height:45px;position:fixed;bottom:0;background:#f9f9f9;border-top:#cacaca;-webkit-tap-highlight-color: rgba(0, 0, 0, 0);line-height:45px;}
+div#page_community footer.snsFooter span.icons {cursor:pointer;background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/icons.png) no-repeat 0 0;-webkit-background-size: 50px auto;width:40px;height:35px;margin:5px auto auto;display:inline-block;}
+div#page_community footer.snsFooter span.icons_home {margin-left:30%;background-position: center -52px;color:#007aff;}
+div#page_community footer.snsFooter span.icons_home_edit {padding-left:15px;padding-right:15px;display:block;background-color:#007aff;margin:7px auto auto;background-position: center -1557px;border-radius:3px;}
+div#page_community footer.snsFooter div.index {float:left;width:33.3%;height:100%;font-size:18px;color:#007aff;}
+div#page_community footer.snsFooter div.edit {float:left;width:33.3%;height:100%;}
+div#page_community footer.snsFooter span.icons_my {margin-left:30%;background-position: center -202px;color:#007aff;}
+div#page_community footer.snsFooter div.my {float:left;width:33.3%;height:100%;font-size:18px;color:#999;}
+
+div#page_addCommunity {position:relative;background:#f8f8f8;font-family:Microsoft YaHei,Helvitica,Verdana,Tohoma,Arial,san-serif;max-width:640px;margin:auto;position:relative; padding-bottom:60px;}
+div#page_addCommunity header {background:#f9f9f9;height:45px;border-bottom:1px solid #afafaf;font-size:18px;cursor:pointer;}
+div#page_addCommunity header div.label {float:left;height:45px;line-height:45px;width:48%;padding-left:2%;color:#333;}
+div#page_addCommunity header div.cancel {float:right;height:45px;color:#007aff;line-height:45px;width:48%;padding-right:2%;text-align:right;}
+div#page_addCommunity section div.title {height:41px;width:100%;background:#fff;}
+div#page_addCommunity section div.title input {background:#fff;width:99%;margin-left:0.5%;border:0px solid black;font-size:17px;line-height:40px;padding-top:5px;color:#858585;}
+div#page_addCommunity section div.titleBottomLine {margin-top:5px;background:#fff;border-top:1px solid #ccc;width:100%;}
+div#page_addCommunity section div.content {width:100%;background:#fff;}
+div#page_addCommunity section div.content article#form_article {color:#858585;height:170px;resize:none;word-break: break-all;word-wrap:break-word;white-space: pre-line;font-weight:500;width:98%;margin-left:1%;line-height:20px;}
+div#page_addCommunity section div.content article#form_article[Attributes Style] {-webkit-user-modify: read-write;-webkit-line-break: after-white-space;}
+div#page_addCommunity section div.content article#form_article:empty:not(:focus):before {content: attr(placeholder);}
+div#page_addCommunity section div.content textarea {margin-top:10px;border:0px solid black;font-size:15px;color:#858585;height:270px;resize:none;width:98%;margin-left:1%;line-height:20px;word-break: break-all;word-wrap:break-word;white-space: pre-line;font-weight:500;}
+div#page_addCommunity section div.content div.numberRemind {color:#858585;font-size:0.9em;text-align:right;height:30px;line-height:30px;padding-right:2%;width:98%;}
+div#page_addCommunity section div.picType {height:45px;width:100%;background:#f8f8f8;border-top:1px solid #c0c3c8;border-bottom:1px solid #b2b2b2;}
+div#page_addCommunity section div.picType div {height:45px;width:50px;float:left;margin-left:20px;}
+div#page_addCommunity section div.picType div.pic {margin-left:10px;}
+div#page_addCommunity section div.picType div.face {margin-left:30px;}
+div#page_addCommunity span.icons {cursor:pointer;background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/icons.png) no-repeat 0 0;-webkit-background-size: 50px auto;width:40px;height:35px;margin:5px auto auto;display:inline-block;}
+div#page_addCommunity span.icons_pic {background-position: center -1205px;}
+div#page_addCommunity span.icons_emotion {background-position: center -1255px;}
+div#page_addCommunity .form_pic_emotion nav ul{height:45px;background:#f8f8f8;border-top:1px solid #c0c3c8;border-bottom:1px solid #b2b2b2;}
+div#page_addCommunity .form_pic_emotion nav ul li{display: inline-block;height:100%;}
+div#page_addCommunity .form_pic_emotion nav a{display: block;width:50px;height:45px;margin-left:10px;margin-right:3px;}
+div#page_addCommunity .form_pic_emotion nav a .icons{display: block;width:50px;height:45px;background-position: center -1303px;}
+div#page_addCommunity .form_pic_emotion nav a .icons_emotion{background-position: center -1352px;}
+div#page_addCommunity .page_pic_emotion{margin:auto;}
+div#page_addCommunity .page_pic_emotion li{height:1px;visibility: hidden;overflow: hidden;padding-left:7px;}.page_pic_emotion li.on{visibility: visible;height: auto;min-height:100px;}
+div#page_addCommunity .page_pic dd,.page_pic dt{display: inline-block;width:55px;height:55px;margin:15px 3px;position: relative;float:left;}
+div#page_addCommunity .page_pic dt{display:inline-block;height:55px;line-height: 55px;width:130px;font-size:12px;color:#aaaaaa;margin: 15px 0px;}
+div#page_addCommunity .page_pic dt:nth-last-of-type(n+2){display: none;}
+div#page_addCommunity .page_pic dd input[type="file"]{display: block;position: absolute;z-index:100;left:0;top:0;width:100%;height:100%;opacity: 0;}
+div#page_addCommunity .page_pic dd img{width:100%;height:100%;display: block;border:0;}
+div#page_addCommunity .page_pic dd img[src^="data:"]{background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/icons.png) no-repeat center -147px;background-size:50px auto;background-color:#888888;border-radius:5px;border:0px solid #d0d0d0;}
+div#page_addCommunity .page_pic dd span{display: block;width: 20px;height: 20px;position: absolute;z-index: 110;right: 0px;top: -10px;border-radius: 30px;background: url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/icons.png) no-repeat center -98px;background-size: 31px auto;background-color: red;-webkit-transform: rotate(45deg);}
+div#page_addCommunity .page_pic dd img[src^="data:image/gif"]+span{visibility: hidden;}
+div#page_addCommunity .page_pic dd:nth-of-type(n+9){display: none;}
+div#page_addCommunity .page_emotion{width:90%;margin:auto;}
+div#page_addCommunity .page_emotion dl>div{padding:0 15px;-webkit-box-sizing:border-box;}
+div#page_addCommunity .page_emotion dd{display: inline-block;float:left;width:14.2%;height:24px;-webkit-box-sizing:border-box;margin:5px 0;text-align:center;}
+div#page_addCommunity .list_emotion *[data-key]{color:transparent;display: block;width:24px;height:24px;margin: auto;background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/default.gif) no-repeat 0 0;-webkit-background-size:auto 24px;}
+div#page_addCommunity .list_emotion *.del{background-image:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/del.png);}
+div#page_addCommunity footer {max-width:640px;margin:0 auto auto;width:100%;height:45px;position:fixed;bottom:0;background:#f8f8f8;border-top:1px solid #cacaca;-webkit-tap-highlight-color: rgba(0, 0, 0, 0);line-height:45px;}
+div#page_addCommunity footer div.submitBtn {cursor:pointer;height:45px;width:130px;margin:0 auto auto;line-height:50px;font-size:18px;color:#007aff;}
+div#page_addCommunity footer div.submitBtn span.icons_submit {background-position: center -1155px;float:left;}
+
+
+div.mask {display:none;position:absolute;left:0;top:0;z-index:1000;width:100%;height:100%;background:rgba(0,0,0,0.5);font-family:Microsoft YaHei,Helvitica,Verdana,Tohoma,Arial,san-serif;}
+div.mask div.maskBtnArea {width:100%;background:#e7e7e7;position:fixed;bottom:0;}
+div.mask div.maskBtnArea div.maskBtn {cursor:pointer;display: block;background: #f8f8f8;font-size: 16px;color: #505050;border: 0;height:50px;line-height: 50px;text-align: center;border-bottom: 1px solid #dfdfdf;border-top: 1px solid #fff;}
+div.mask div.maskBtnArea div.maskBtn#like {border-bottom: 1px solid #d1d1d1;}
+div.mask div.maskBtnArea div.maskBtn#cancel {border-top: 1px solid #d1d1d1;margin-top: 7px;}
+div#page_discuss {position:relative;background:#ddd;font-family:Microsoft YaHei,Helvitica,Verdana,Tohoma,Arial,san-serif;max-width:640px;margin:auto;position:relative; padding-bottom:60px;}
+div#page_discuss header {margin:10px auto auto;width:98%;}
+div#page_discuss header div.topic {width:100%;background:#fff;}
+div#page_discuss header div.topic div.title {word-wrap:break-word; overflow:hidden;font-size:16px;color:rgb(0,0,0);padding:10px;}
+div#page_discuss header div.topic div.createDate {font-size:15px;color:#828282;padding-left:10px;padding-right:10px;color:#828282;font-size:0.9em;}
+div#page_discuss header div.topic div.content {padding:10px;font-size:14px;}
+div#page_discuss header div.footer {position:relative;border-top:1px solid #cacaca;border-bottom:1.4px solid #cacaca;width:100%;height:45px;background:#f3f3f3;}
+div#page_discuss header div.footer span.triangle {z-index:2;position:absolute;font-size:40px;display:block;line-height:0px;top:44px;left:10%;color:#f3f3f3;}
+div#page_discuss header div.footer span.borderTriangle {position:absolute;font-size:40px;display:block;line-height:0px;z-index:1;top:44.6px;left:10%;background:#cacaca;}
+div#page_discuss header div.footer div.discuss {height:45px;float:left;width:38%;line-height:45px;padding-left:4%;font-size:16px;color:#999;}
+div#page_discuss header div.footer div.discuss span.discussNum {color:#000;}
+div#page_discuss header div.footer span.icons {cursor:pointer;background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/icons.png) no-repeat 0 0;-webkit-background-size: 50px auto;width:30px;height:30px;display:inline-block;}
+div#page_discuss header div.footer div.like {padding-left:2%;height:45px;float:left;width:27%;}
+div#page_discuss header div.footer div.like span.icons.notLike {background-position: center -552px;}
+div#page_discuss header div.footer div.like span.icons.hasLike {background-position: center -702px;}
+div#page_discuss header div.footer div.like span.notLike {color:#999;font-size:16px;line-height:45px;}
+div#page_discuss header div.footer div.like span.hasLike {color:#007aff;font-size:16px;line-height:45px;}
+
+div#page_discuss header div.footer div.collect {height:45px;float:left;width:29%;}
+div#page_discuss header div.footer div.collect span.notCollect {background-position: center -455px;}
+div#page_discuss header div.footer div.collect span.notCollect {color:#999;font-size:16px;line-height:45px;}
+div#page_discuss header div.footer div.collect span.hasCollect {background-position: center -605px;}
+div#page_discuss header div.footer div.collect span.hasCollect {color:#eb3424;font-size:16px;line-height:45px;}
+
+div#page_discuss section{margin:10px auto auto;width:98%;}
+div#page_discuss section article {overflow:hidden;margin-top:1px;background:#fff;width:100%;box-shadow: 0 1px 3px rgba(0,0,0,0.1);-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.1);}
+div#page_discuss section article div.userHead {padding-left:10px;padding-top:10px;float:left;padding-right:10px;}
+div#page_discuss section article div.userHead img {width:40px;height:40px;}
+div#page_discuss section article div.articleInfo {float:left;padding-top:10px;padding-bottom:10px;padding-bottom:3px;}
+div#page_discuss section article div.articleInfo div.username {color:#333;font-size:13px;}
+div#page_discuss section article div.articleInfo div.content {font-size: 14px;line-height: 23px;overflow: hidden;word-break: break-all;}
+div#page_discuss section article div.articleInfo span.icons {cursor:pointer;background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/icons.png) no-repeat 0 0;-webkit-background-size: 50px auto;width:30px;height:23px;display:inline-block;}
+div#page_discuss section article div.articleInfo span.icons.deleteIcon {background-position: center -814px;}
+div#page_discuss section article div.articleInfo div.createDate {font-size:10px;padding-right:10px;float:left;padding-bottom:10px;}
+div#page_discuss section article div.articleInfo div.likeNum {font-size:10px;float:left;}
+div#page_discuss section article div.btnArea {float:left;padding-right:10px;padding-top:10px;}
+div#page_discuss section article div.btnArea span.icons {cursor:pointer;background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/icons.png) no-repeat 0 0;-webkit-background-size: 50px auto;width:30px;height:30px;margin-top:10px;display:inline-block;}
+div#page_discuss section article div.btnArea span.btn {background-position: center -760px;}
+div#page_discuss footer {max-width:640px;margin:0 auto auto;width:100%;height:50px;position:fixed;bottom:0;background:#f9f9f9;border-top:#cacaca;-webkit-tap-highlight-color: rgba(0, 0, 0, 0);line-height:45px;}
+div#page_discuss footer div.back , div#page_discuss footer div.discuss {padding-left:20%;width:30%;float:left;height:50px;line-height:33px;font-size:18px;}
+div#page_discuss footer span.icons {cursor:pointer;background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/icons.png) no-repeat 0 0;-webkit-background-size: 50px auto;width:30px;height:30px;margin-top:10px;display:inline-block;}
+div#page_discuss footer div.back span.icons_back{background-position: center -910px;}
+div#page_discuss footer div.discuss span.icons_discuss {background-position: center -857px;}
+
+div#mask_page_productreg {position:absolute;display:none;left:0;top:0;width:100%;height:100%;z-index:1000;background:rgba(0,0,0,0.5);}
+div#mask_page_productreg div.maskBtnArea {overflow-y: scroll;-webkit-overflow-scrolling: touch;max-height:300px;width:100%;background:#e7e7e7;position:fixed;bottom:0;}
+div#mask_page_productreg div.maskBtnArea div.splitLine {height:8px;}
+div#mask_page_productreg div.maskBtnArea div.maskBtn {cursor:pointer;display: block;background: #f8f8f8;font-size: 16px;color: #505050;border: 0;height:50px;line-height: 50px;text-align: center;border-bottom: 1px solid #dfdfdf;border-top: 1px solid #fff;}
+div#page_productreg {position:relative;background:#f8f8f8;font-family:Microsoft YaHei,Helvitica,Verdana,Tohoma,Arial,san-serif;max-width:640px;margin:auto; position:relative; padding-bottom:60px;}
+div#page_productreg header {width:100%;height:115px;background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/communityTop.jpg);}
+div#page_productreg header div.logo {float:left;height:93px;padding-top:22px;padding-left:22px;border-radius:100px;}
+div#page_productreg header div.logo img {height:70px;}
+div#page_productreg header div.followLogo {float:left;padding-top:27px;padding-left:10px;color:#fff;}
+div#page_productreg header div.followLogo div.companyName {font-size:18px;}
+div#page_productreg header div.followLogo div.communityInfo {padding-top:5px;}
+div#page_productreg header div.followLogo div.communityInfo span{font-family:FontAwesome;padding-left:5px;}
+div#page_productreg aside {width:100%;height:50px;background:#fff;color:#5d5d5d;text-align:center;}
+div#page_productreg aside div.mainModel{position:relative;width:50%;float:left;padding-top:8px;padding-bottom:8px;font-size: 15px;cursor:pointer;line-height:35px;}
+div#page_productreg aside div.mainModel span.modelName {display:block;}
+div#page_productreg aside div.mainModel.on div.footLine{position:absolute;width:100%;left:0;bottom:0;border-bottom:2px solid #007aff;}
+div#page_productreg aside div.mainModel div.rightLine {position:absolute;height:50px;right:0;top:0;border-right:1px solid #dcdcdc;}
+div#page_productreg section {border-top:1px solid #adadad;width:100%;margin:auto auto;}
+div#page_productreg section input {background:#fff;width: 100%;padding-left:10px;padding-right:10px;border: 0px solid black;font-size: 17px;height:45px;padding-top:8px;color: #858585;-webkit-rtl-ordering: logical;-webkit-user-select: text;cursor: auto;}
+div#page_productreg section div.inputContainer {padding-bottom:1px;background:#cbcbcb;width:100%;overflow:clear;}
+div#page_productreg section div.modelSelect{display:none;}
+div#page_productreg section div.textAreaContainer {}
+div#page_productreg section div.inputContainer textarea {border:0px solid black;color:#858585;height:200px;resize:none;width:100%;padding-left:10px;font-size:17px;line-height:20px;word-break:break-all;word-wrap:break-word;white-space:pre-line;font-weight:500;padding-top:10px;}
+div#page_productreg section div.textAreaContainer textarea {border:0px solid black;color:#858585;height:200px;resize:none;width:100%;padding-left:10px;font-size:17px;line-height:20px;word-break:break-all;word-wrap:break-word;white-space:pre-line;font-weight:500;padding-top:10px;}
+div#page_productreg section div.textAreaContainer div.numberTip {background:#fff;color:#858585;font-size:0.9em;text-align:right;height:30px;line-height:30px;padding-right:2%;width:98%;}
+div#page_productreg footer {max-width:640px;margin:0 auto auto;width:100%;height:45px;position:fixed;bottom:0;background:#f9f9f9;border-top:#cacaca;-webkit-tap-highlight-color: rgba(0, 0, 0, 0);line-height:45px;}
+div#page_productreg footer span.icons {cursor:pointer;background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/icons.png) no-repeat 0 0;-webkit-background-size: 50px auto;width:40px;height:35px;margin:5px auto auto;display:inline-block;}
+div#page_productreg footer span.icons_home {margin-left:30%;background-position: center -2px;color:#999;}
+div#page_productreg footer span.icons_home_edit {padding-left:15px;padding-right:15px;display:block;background-color:#007aff;margin:7px auto auto;background-position: center -1557px;border-radius:3px;}
+div#page_productreg footer div.index {float:left;width:33.3%;height:100%;font-size:18px;color:#999;}
+div#page_productreg footer div.edit {float:left;width:33.3%;height:100%;}
+div#page_productreg footer span.icons_my {margin-left:30%;background-position: center -252px;color:#007aff;}
+div#page_productreg footer div.my {float:left;width:33.3%;height:100%;font-size:18px;color:#007aff;}
+div#page_productreg footer {max-width:640px;margin:0 auto auto;width:100%;height:45px;position:fixed;bottom:0;background:#f8f8f8;border-top:1px solid #cacaca;-webkit-tap-highlight-color: rgba(0, 0, 0, 0);line-height:45px;}
+div#page_productreg footer div.submitBtn {cursor:pointer;height:45px;width:130px;margin:0 auto auto;line-height:50px;font-size:18px;color:#007aff;}
+div#page_productreg footer div.submitBtn span.icons_submit {background-position: center -1155px;float:left;}
+
+div#mask_editResume {background:rgba(0,0,0,0.5);position:absolute;left:0;top:0;width:100%;height:100%;z-index:101;}
+div#mask_editResume div.maskBtnArea {overflow-y: scroll;-webkit-overflow-scrolling: touch;max-height:300px;width:100%;background:#e7e7e7;position:fixed;bottom:0;}
+div#mask_editResume div.maskBtnArea div.splitLine {height:8px;}
+div#mask_editResume div.maskBtnArea div.maskBtn {cursor:pointer;display: block;background: #f8f8f8;font-size: 16px;color: #505050;border: 0;height:50px;line-height: 50px;text-align: center;border-bottom: 1px solid #dfdfdf;border-top: 1px solid #fff;}
+div#editResume {position:relative;background:#f8f8f8;font-family:Microsoft YaHei,Helvitica,Verdana,Tohoma,Arial,san-serif;max-width:640px;margin:auto; position:relative; padding-bottom:60px;}
+div#editResume header {background:#004c84;text-align:center;line-height:45px;color:#fff;height:45px;border-bottom:1px solid #afafaf;font-size:18px;cursor:pointer;}
+div#editResume section {width:100%;margin:auto auto;}
+div#editResume section.add div.editShow {display:none;}
+div#editResume section.edit div.editShow {background:#fff;padding-left:10px;}
+div#editResume section input {background:#fff;width: 100%;padding-left:10px;padding-right:10px;border: 0px solid black;font-size: 17px;height:45px;padding-top:8px;color: #858585;-webkit-rtl-ordering: logical;-webkit-user-select: text;cursor: auto;}
+div#editResume section div.inputContainer {padding-bottom:1px;background:#cbcbcb;width:100%;overflow:clear;}
+div#editResume section div.modelSelect{display:none;}
+div#editResume section div.textAreaContainer {}
+div#editResume section div.inputContainer textarea {border:0px solid black;color:#858585;height:200px;resize:none;width:100%;padding-left:10px;font-size:17px;line-height:20px;word-break:break-all;word-wrap:break-word;white-space:pre-line;font-weight:500;padding-top:10px;}
+div#editResume section div.inputContainer div.numberTip {background:#fff;color:#858585;font-size:0.9em;text-align:right;height:30px;line-height:30px;padding-right:2%;width:98%;}
+div#editResume section div.textAreaContainer textarea {border:0px solid black;color:#858585;height:200px;resize:none;width:100%;padding-left:10px;font-size:17px;line-height:20px;word-break:break-all;word-wrap:break-word;white-space:pre-line;font-weight:500;padding-top:10px;}
+div#editResume section div.textAreaContainer div.numberTip {background:#fff;color:#858585;font-size:0.9em;text-align:right;height:30px;line-height:30px;padding-right:2%;width:98%;}
+div#editResume footer {max-width:640px;margin:0 auto auto;width:100%;height:45px;position:fixed;bottom:0;background:#f9f9f9;border-top:#cacaca;-webkit-tap-highlight-color: rgba(0, 0, 0, 0);line-height:45px;}
+div#editResume footer span.icons {cursor:pointer;background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/icons.png) no-repeat 0 0;-webkit-background-size: 50px auto;width:40px;height:35px;margin:5px auto auto;display:inline-block;}
+div#editResume footer span.icons_home {margin-left:30%;background-position: center -2px;color:#999;}
+div#editResume footer span.icons_home_edit {padding-left:15px;padding-right:15px;display:block;background-color:#007aff;margin:7px auto auto;background-position: center -1557px;border-radius:3px;}
+div#editResume footer div.index {float:left;width:33.3%;height:100%;font-size:18px;color:#999;}
+div#editResume footer div.edit {float:left;width:33.3%;height:100%;}
+div#editResume footer span.icons_my {margin-left:30%;background-position: center -252px;color:#007aff;}
+div#editResume footer div.my {float:left;width:33.3%;height:100%;font-size:18px;color:#007aff;}
+div#editResume footer {max-width:640px;margin:0 auto auto;width:100%;height:45px;position:fixed;bottom:0;background:#f8f8f8;border-top:1px solid #cacaca;-webkit-tap-highlight-color: rgba(0, 0, 0, 0);line-height:45px;}
+div#editResume footer div.submitBtn {cursor:pointer;height:45px;width:130px;margin:0 auto auto;line-height:50px;font-size:18px;color:#007aff;}
+div#editResume footer div.submitBtn span.icons_submit {background-position: center -1155px;float:left;}
+
+div#page_resumeList {font-family:Microsoft YaHei,Helvitica,Verdana,Tohoma,Arial,san-serif;max-width:640px;margin:auto; position:relative; padding-bottom:60px;}
+div#page_resumeList header {width:100%;height:50px;position:relative;background:#004c84;color:#fff;line-height:50px;text-align:center;font-size:1.5em;}
+div#page_resumeList header div.back {cursor:pointer;position:absolute;left:10px;top:0;}
+div#page_resumeList section {width:98%;position:relative;margin:0 auto auto;}
+div#page_resumeList section aside {width: 90%;margin-left: 5%;height: 33px;line-height: 33px;font-size: 13px;text-align: center;color: rgb(66,66,66);font-size:15px;background: rgb(248,248,248);border: 1px solid rgb(220,220,220);cursor: pointer;margin-top: 20px;margin-bottom: 20px;border-radius: 3px;}
+div#page_resumeList section article {height:130px;margin:10px auto auto;background: rgb(248,248,248);border: 1px solid rgb(220,220,220);cursor: pointer;}
+div#page_resumeList section article div.container {width:96%;margin:5px auto auto;color:#000;}
+div#page_resumeList section article h3 {padding-top:2px;padding-left:4px;font-size:17px;}
+div#page_resumeList section article dl {padding-left:4px;height:25px;line-height:25px;margin-top:4px;overflow:hidden;color:#979797;font-size:15px;}
+div#page_resumeList section article dl dt {width:80px;float:left;}
+div#page_resumeList section article dl dd {float:left;line-height:25px;}
+div#page_resumeList section article dl dd div.toolBarContainer {width:60%;height:10px;float:left;margin-top:8px;}
+div#page_resumeList section article dl dd div.toolBar {width:100%;height:10px;background:#5dbfec;border-radius:5px;float:left;}
+div#page_resumeList section article dl dd label.toolBarLabel {float:left;padding-left:10px;display:block;width:40px;}
+div#page_resumeList section article a {color:#007aff;text-decoration:none;display:block;width:98%;margin:2px auto auto;padding-bottom:3px;font-size:15px;}
+div#page_resumeList section div.footer {color:#007aff;font-size:15px;height:50px;position:relative;margin:0px auto auto;background: rgb(248,248,248);border: 1px solid rgb(220,220,220);border-top:0px solid red;cursor: pointer;}
+div#page_resumeList section div.footer div.register {position:relative;padding-left:2%;width:40%;float:left;height:50px;line-height:30px;}
+div#page_resumeList section div.footer div.write {position:relative;float:left;padding-left:2%;width:27%;height:50px;line-height:30px;}
+div#page_resumeList section div.footer div.delete {position:relative;float:left;padding-left:2%;width:27%;height:50px;line-height:30px;}
+div#page_resumeList section div.footer span.icons {cursor:pointer;background:url(http://7te8tv.com1.z0.glb.clouddn.com/img/common/icons.png) no-repeat 0 0;-webkit-background-size: 50px auto;width:30px;height:30px;margin-top:10px;display:inline-block;}
+div#page_resumeList section div.footer div.footerLine {height:100%;width:0px;border-right:1px solid #cacaca;position:absolute;top:0;right:0;}
+div#page_resumeList section div.footer span.icons_submit{background-position: center -1160px;}
+div#page_resumeList section div.footer span.icons_write{background-position: center -410px;}
+div#page_resumeList section div.footer span.icons_delete{background-position: center -810px;}
+
+div#page_resumeType {font-family:Microsoft YaHei,Helvitica,Verdana,Tohoma,Arial,san-serif;max-width:640px;margin:auto; position:relative; padding-bottom:60px;}
+div#page_resumeType header {position:relative;width:100%;height:50px;position:relative;background:#004c84;color:#fff;line-height:50px;text-align:center;font-size:1.5em;}
+div#page_resumeType header div.back {cursor:pointer;position:absolute;left:10px;top:0;}
+div#page_resumeType section {width:98%;position:relative;margin:0 auto auto;}
+div#page_resumeType section aside {width: 90%;margin-left: 5%;height: 33px;line-height: 33px;font-size: 13px;text-align: center;color: rgb(66,66,66);font-size:15px;background: rgb(248,248,248);border: 1px solid rgb(220,220,220);cursor: pointer;margin-top: 20px;margin-bottom: 20px;border-radius: 3px;}
+div#page_resumeType section aside.detailInfo {width: 90%;margin-left: 5%;height:auto;line-height:auto;color: rgb(66,66,66);font-size:13px;margin-bottom:0px;background: rgb(248,248,248);border: 1px solid rgb(220,220,220);cursor: pointer;margin-top: 2px;border-radius: 0px;}
+div#page_resumeType section aside.detailInfo dl {text-align:left;line-height:24px;position:relative;overflow:hidden;}
+div#page_resumeType section aside.detailInfo dt{float:left;width:90px;padding-left:10px;}
+div#page_resumeType section aside.detailInfo dd {float:left;word-wrap:break-word;}
+div#page_resumeType section article {height:50px;margin:10px auto auto;background: rgb(248,248,248);border: 1px solid rgb(220,220,220);cursor: pointer;}
+div#page_resumeType section article div.img {width:40px;height:40px;margin:5px;float:left;}
+div#page_resumeType section article div.img img {width:100%;}
+div#page_resumeType section article div.title {padding-left:10px;float:left;line-height:50px;color:#737373;font-size:1.3em;}
+
+div#page_settleAccount,div#page_createOrder {background:#fafafa;}
